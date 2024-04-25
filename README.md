@@ -3,7 +3,7 @@ This is a web app that lets you call multiple APIs at the cost of one.
 API formatter introduces a new layer between APIs and user making multiple calls faster and data structured
 
 ## Example
-! Asuming each call takes n seconds and the processing layer takes no time
+! Assuming each call takes n seconds and the processing layer takes no time
 ### Direct Call
 ![slow](https://github.com/rishiCz/api-formatter/assets/98217604/838dc174-cb4d-4ada-82c5-95a185ec87f7)
 #### The conventional method takes the sum of all the time taken by each api to get the data
